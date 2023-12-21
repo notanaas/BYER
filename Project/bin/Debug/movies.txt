@@ -1,0 +1,24 @@
+System.Drawing.Bitmap
+ans
+22
+11
+System.Drawing.Bitmap
+anas
+22
+11
+
+anas
+12
+1
+System.Drawing.Bitmap
+anas
+22
+121
+System.Drawing.Bitmap
+anas
+22
+22
+System.Drawing.Bitmap
+Anas
+22
+5/25/2023 7:15:45 AM
